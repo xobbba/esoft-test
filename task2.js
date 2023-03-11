@@ -30,6 +30,6 @@ const validationDesc = (words, min, desc) => {
 
 
     return result;
-}
+};
 
-console.log(validationDesc(['хата', 'рн', 'офигенно'], 200, '88005553535 хата  прилогается'))
+console.log(validationDesc(['хата', 'рн', 'офигенно'], 200, '88005553535 хата  прилогается'));
